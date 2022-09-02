@@ -1,0 +1,26 @@
+.form__labelText {
+    width: 150px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.form__fieldset {
+    padding: 10px;
+    border-radius: 15px;
+    margin: 20px 0;
+    background-color: rgb(250, 179, 116);
+}
+
+.form__legend {
+    background-color: rgb(42, 28, 118);
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.form__input{
+    border-radius: 5px;
+}
+.form__currency{
+    border-radius: 5px;
+}
