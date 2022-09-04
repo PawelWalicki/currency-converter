@@ -2,13 +2,16 @@ html {
     box-sizing: border-box;
 }
 
-*, ::after, ::before {
+*,
+::after,
+::before {
     box-sizing: inherit;
 }
 
 .body {
     font-family: 'Lato', sans-serif;
-    background-color: azure;
+    background-image: url("../images/background.jpg");
+
 }
 
 .container {
@@ -23,4 +26,3 @@ html {
     padding: 20px;
     text-align: center;
 }
-
